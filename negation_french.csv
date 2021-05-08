@@ -1,0 +1,37 @@
+id;masked;tgt;item;cond;right_answer;options
+0;La truite est un <mask>;poisson;0;TA;poisson;poisson outil
+1;La truite n'est pas un <mask>;poisson;0;FN;outil;poisson outil
+2;Le saumon est un <mask>;poisson;1;TA;poisson;poisson légume
+3;Le saumon n'est pas un <mask>;poisson;1;FN;légume;poisson légume
+4;La fourmi est un <mask>;insecte;2;TA;insecte;insecte légume
+5;La fourmi n'est pas un <mask>;insecte;2;FN;légume;insecte légume
+6;La abeille est un <mask>;insecte;3;TA;insecte;insecte bâtiment
+7;La abeille n'est pas un <mask>;insecte;3;FN;bâtiment;insecte bâtiment
+8;Le rouge-gorge est un <mask>;oiseau;4;TA;oiseau;oiseau arbre
+9;Le rouge-gorge n'est pas un <mask>;oiseau;4;FN;arbre;oiseau arbre
+10;Le moineau est un <mask>;oiseau;5;TA;oiseau;oiseau véhicule
+11;Le moineau n'est pas un <mask>;oiseau;5;FN;véhicule;oiseau véhicule
+12;Le chêne est un <mask>;arbre;6;TA;arbre;arbre véhicule
+13;Le chêne n'est pas un <mask>;arbre;6;FN;véhicule;arbre véhicule
+14;Le pin est un <mask>;arbre;7;TA;arbre;arbre véhicule
+15;Le pin n'est pas un <mask>;arbre;7;FN;véhicule;arbre véhicule
+16;La rose est un <mask>;fleur;8;TA;fleur;fleur insecte
+17;La rose n'est pas un <mask>;fleur;8;FN;insecte;fleur insecte
+18;La marguerite est un <mask>;fleur;9;TA;fleur;fleur oiseau
+19;La marguerite n'est pas un <mask>;fleur;9;FN;oiseau;fleur oiseau
+20;La carotte est un <mask>;légume;10;TA;légume;légume poisson
+21;La carotte n'est pas un <mask>;légume;10;FN;poisson;légume poisson
+22;Le petit pois est un <mask>;légume;11;TA;légume;légume bâtiment
+23;Le petit pois n'est pas un <mask>;légume;11;FN;bâtiment;légume bâtiment
+24;Le marteau est un <mask>;outil;12;TA;outil;outil insecte
+25;Le marteau n'est pas un <mask>;outil;12;FN;insecte;outil insecte
+26;La scie est un <mask>;outil;13;TA;outil;outil légume
+27;La scie n'est pas un <mask>;outil;13;FN;légume;outil légume
+28;La voiture est un <mask>;véhicule;14;TA;véhicule;véhicule arbre
+29;La voiture n'est pas un <mask>;véhicule;14;FN;arbre;véhicule arbre
+30;Le camion est un <mask>;véhicule;15;TA;véhicule;véhicule fleur
+31;Le camion n'est pas un <mask>;véhicule;15;FN;fleur;véhicule fleur
+32;L'hôtel est un <mask>;bâtiment;16;TA;bâtiment;bâtiment poisson
+33;L'hôtel n'est pas un <mask>;bâtiment;16;FN;poisson;bâtiment poisson
+34;La maison est un <mask>;oiseau;17;TA;oiseau;oiseau construction
+35;La maison n'est pas un <mask>;oiseau;17;FN;construction;oiseau construction

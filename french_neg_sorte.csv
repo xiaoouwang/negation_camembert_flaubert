@@ -1,0 +1,19 @@
+item,context_aff,context_neg,target_aff,target_neg
+0,La truite est un,La truite n'est pas un,poisson,outil
+1,Le saumon est un,Le saumon n'est pas un,poisson,légume
+2,La fourmi est un,La fourmi n'est pas un,insecte,légume
+3,La abeille est un,La abeille n'est pas un,insecte,bâtiment
+4,Le rouge-gorge est un,Le rouge-gorge n'est pas un,oiseau,arbre
+5,Le moineau est un,Le moineau n'est pas un,oiseau,véhicule
+6,Le chêne est un,Le chêne n'est pas un,arbre,véhicule
+7,Le pin est un,Le pin n'est pas un,arbre,véhicule
+8,La rose est un,La rose n'est pas un,fleur,insecte
+9,La marguerite est un,La marguerite n'est pas un,fleur,oiseau
+10,La carotte est un,La carotte n'est pas un,légume,poisson
+11,Le petit pois est un,Le petit pois n'est pas un,légume,bâtiment
+12,Le marteau est un,Le marteau n'est pas un,outil,insecte
+13,La scie est un,La scie n'est pas un,un outil,légume
+14,La voiture est un,La voiture n'est pas un,véhicule,arbre
+15,Le camion est un,Le camion n'est pas un,véhicule,fleur
+16,L'hôtel est un,L'hôtel n'est pas un,bâtiment,poisson
+17,La maison est un,La maison n'est pas un,oiseau,construction

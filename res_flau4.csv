@@ -1,0 +1,37 @@
+ch_whole_add_right_flau,options,response1,prob1,response2,prob2
+Le terme truite désigne un <special1> en français.,poisson outil,outil,0.0005706942174583673,0,0.0
+Le terme truite ne désigne pas un <special1> en français.,poisson outil,outil,0.00029894892941229045,0,0.0
+Le terme saumon désigne un <special1> en français.,poisson légume,poisson,0.00011025946150766686,0,0.0
+Le terme saumon ne désigne pas un <special1> en français.,poisson légume,0,0.0,0,0.0
+Le terme fourmi désigne un <special1> en français.,insecte légume,0,0.0,0,0.0
+Le terme fourmi ne désigne pas un <special1> en français.,insecte légume,0,0.0,0,0.0
+Le terme abeille désigne un <special1> en français.,insecte bâtiment,0,0.0,0,0.0
+Le terme abeille ne désigne pas un <special1> en français.,insecte bâtiment,bâtiment,2.2378064386430196e-05,0,0.0
+Le terme rouge-gorge désigne un <special1> en français.,oiseau arbre,0,0.0,0,0.0
+Le terme rouge-gorge ne désigne pas un <special1> en français.,oiseau arbre,0,0.0,0,0.0
+Le terme moineau désigne un <special1> en français.,oiseau véhicule,0,0.0,0,0.0
+Le terme moineau ne désigne pas un <special1> en français.,oiseau véhicule,0,0.0,0,0.0
+Le terme chêne désigne un <special1> en français.,arbre véhicule,véhicule,9.083796612685546e-05,0,0.0
+Le terme chêne ne désigne pas un <special1> en français.,arbre véhicule,0,0.0,0,0.0
+Le terme pin désigne un <special1> en français.,arbre véhicule,0,0.0,0,0.0
+Le terme pin ne désigne pas un <special1> en français.,arbre véhicule,0,0.0,0,0.0
+Le terme rose désigne un <special1> en français.,fleur insecte,0,0.0,0,0.0
+Le terme rose ne désigne pas un <special1> en français.,fleur insecte,0,0.0,0,0.0
+Le terme marguerite désigne un <special1> en français.,fleur oiseau,0,0.0,0,0.0
+Le terme marguerite ne désigne pas un <special1> en français.,fleur oiseau,0,0.0,0,0.0
+Le terme carotte désigne un <special1> en français.,légume poisson,0,0.0,0,0.0
+Le terme carotte ne désigne pas un <special1> en français.,légume poisson,0,0.0,0,0.0
+Le terme petit pois désigne un <special1> en français.,légume bâtiment,bâtiment,4.356287536211312e-05,0,0.0
+Le terme petit pois ne désigne pas un <special1> en français.,légume bâtiment,bâtiment,2.586459777376149e-05,0,0.0
+Le terme marteau désigne un <special1> en français.,outil insecte,outil,0.0005607068305835128,0,0.0
+Le terme marteau ne désigne pas un <special1> en français.,outil insecte,outil,0.00033484483719803393,0,0.0
+Le terme scie désigne un <special1> en français.,outil légume,outil,0.0004949074354954064,0,0.0
+Le terme scie ne désigne pas un <special1> en français.,outil légume,outil,0.0004304384347051382,0,0.0
+Le terme voiture désigne un <special1> en français.,véhicule arbre,véhicule,0.0005298300529830158,0,0.0
+Le terme voiture ne désigne pas un <special1> en français.,véhicule arbre,0,0.0,0,0.0
+Le terme camion désigne un <special1> en français.,véhicule fleur,véhicule,0.01515887025743723,0,0.0
+Le terme camion ne désigne pas un <special1> en français.,véhicule fleur,véhicule,0.00013401817705016583,0,0.0
+L'hôtel désigne un <special1> en français.,bâtiment poisson,bâtiment,0.008573679253458977,0,0.0
+L'hôtel ne désigne pas un <special1> en français.,bâtiment poisson,bâtiment,9.131471597356722e-05,0,0.0
+Le terme maison désigne un <special1> en français.,oiseau construction,0,0.0,0,0.0
+Le terme maison ne désigne pas un <special1> en français.,oiseau construction,0,0.0,0,0.0

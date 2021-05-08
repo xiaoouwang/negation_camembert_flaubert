@@ -1,0 +1,37 @@
+ch_verb_add_right_flau,options,response1,prob1,response2,prob2
+La truite représente un <special1> en français.,poisson outil,outil,0.00026595802046358585,0,0.0
+La truite ne représente pas un <special1> en français.,poisson outil,outil,0.0009350724867545068,0,0.0
+Le saumon représente un <special1> en français.,poisson légume,poisson,0.00019375089323148131,0,0.0
+Le saumon ne représente pas un <special1> en français.,poisson légume,poisson,0.00017878539802040905,0,0.0
+La fourmi représente un <special1> en français.,insecte légume,0,0.0,0,0.0
+La fourmi ne représente pas un <special1> en français.,insecte légume,0,0.0,0,0.0
+La abeille représente un <special1> en français.,insecte bâtiment,bâtiment,0.00038355501601472497,0,0.0
+La abeille ne représente pas un <special1> en français.,insecte bâtiment,bâtiment,0.00014093630306888372,0,0.0
+Le rouge-gorge représente un <special1> en français.,oiseau arbre,0,0.0,0,0.0
+Le rouge-gorge ne représente pas un <special1> en français.,oiseau arbre,0,0.0,0,0.0
+Le moineau représente un <special1> en français.,oiseau véhicule,véhicule,0.00017932744231075048,oiseau,0.00015022672596387565
+Le moineau ne représente pas un <special1> en français.,oiseau véhicule,véhicule,5.565484752878547e-05,0,0.0
+Le chêne représente un <special1> en français.,arbre véhicule,arbre,0.0008410069858655334,véhicule,0.0004559833905659616
+Le chêne ne représente pas un <special1> en français.,arbre véhicule,arbre,0.0005650210077874362,véhicule,0.00013237357779871672
+Le pin représente un <special1> en français.,arbre véhicule,véhicule,0.0002700533077586442,0,0.0
+Le pin ne représente pas un <special1> en français.,arbre véhicule,0,0.0,0,0.0
+La rose représente un <special1> en français.,fleur insecte,0,0.0,0,0.0
+La rose ne représente pas un <special1> en français.,fleur insecte,0,0.0,0,0.0
+La marguerite représente un <special1> en français.,fleur oiseau,0,0.0,0,0.0
+La marguerite ne représente pas un <special1> en français.,fleur oiseau,0,0.0,0,0.0
+La carotte représente un <special1> en français.,légume poisson,0,0.0,0,0.0
+La carotte ne représente pas un <special1> en français.,légume poisson,0,0.0,0,0.0
+Le petit pois représente un <special1> en français.,légume bâtiment,bâtiment,0.0001184341381303966,0,0.0
+Le petit pois ne représente pas un <special1> en français.,légume bâtiment,bâtiment,9.809939365368336e-05,0,0.0
+Le marteau représente un <special1> en français.,outil insecte,outil,0.00035251423832960427,0,0.0
+Le marteau ne représente pas un <special1> en français.,outil insecte,outil,0.000675652758218348,0,0.0
+La scie représente un <special1> en français.,outil légume,outil,0.00033177476143464446,0,0.0
+La scie ne représente pas un <special1> en français.,outil légume,outil,0.0007331579690799117,0,0.0
+La voiture représente un <special1> en français.,véhicule arbre,véhicule,0.038278624415397644,arbre,9.501760359853506e-05
+La voiture ne représente pas un <special1> en français.,véhicule arbre,véhicule,0.0008276404696516693,0,0.0
+Le camion représente un <special1> en français.,véhicule fleur,véhicule,0.010441233403980732,0,0.0
+Le camion ne représente pas un <special1> en français.,véhicule fleur,véhicule,0.018795976415276527,0,0.0
+L'hôtel représente un <special1> en français.,bâtiment poisson,bâtiment,0.0060610417276620865,0,0.0
+L'hôtel ne représente pas un <special1> en français.,bâtiment poisson,bâtiment,0.00042071565985679626,0,0.0
+La maison représente un <special1> en français.,oiseau construction,0,0.0,0,0.0
+La maison ne représente pas un <special1> en français.,oiseau construction,0,0.0,0,0.0

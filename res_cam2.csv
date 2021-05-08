@@ -1,0 +1,37 @@
+ch_verb,options,response1,prob1,response2,prob2
+La truite représente un <mask>.,poisson outil,outil,0.0008574862731620669,poisson,0.0006306225550360978
+La truite ne représente pas un <mask>.,poisson outil,outil,0.0011089876061305404,poisson,0.0001850173284765333
+Le saumon représente un <mask>.,poisson légume,poisson,0.001088906661607325,0,0.0
+Le saumon ne représente pas un <mask>.,poisson légume,poisson,0.0003756748337764293,0,0.0
+La fourmi représente un <mask>.,insecte légume,0,0.0,0,0.0
+La fourmi ne représente pas un <mask>.,insecte légume,0,0.0,0,0.0
+La abeille représente un <mask>.,insecte bâtiment,bâtiment,0.0020170919597148895,insecte,0.00044046962284483016
+La abeille ne représente pas un <mask>.,insecte bâtiment,bâtiment,0.0004983484977856278,0,0.0
+Le rouge-gorge représente un <mask>.,oiseau arbre,arbre,0.0004314907419029623,oiseau,0.0002377812925260514
+Le rouge-gorge ne représente pas un <mask>.,oiseau arbre,oiseau,0.0005758813349530101,arbre,0.0004619192914105952
+Le moineau représente un <mask>.,oiseau véhicule,véhicule,0.005948325153440237,oiseau,0.001977013424038887
+Le moineau ne représente pas un <mask>.,oiseau véhicule,véhicule,0.0008213173714466393,oiseau,0.000719892093911767
+Le chêne représente un <mask>.,arbre véhicule,arbre,0.002444874495267868,véhicule,0.0016310032224282622
+Le chêne ne représente pas un <mask>.,arbre véhicule,arbre,0.0023503932170569897,véhicule,0.0008093929500319064
+Le pin représente un <mask>.,arbre véhicule,véhicule,0.0026191887445747852,arbre,0.001743533299304545
+Le pin ne représente pas un <mask>.,arbre véhicule,véhicule,0.0013726679608225822,arbre,0.00048058287939056754
+La rose représente un <mask>.,fleur insecte,insecte,0.0005775568424724042,0,0.0
+La rose ne représente pas un <mask>.,fleur insecte,0,0.0,0,0.0
+La marguerite représente un <mask>.,fleur oiseau,oiseau,0.0003237096534576267,0,0.0
+La marguerite ne représente pas un <mask>.,fleur oiseau,oiseau,0.0003501639293972403,0,0.0
+La carotte représente un <mask>.,légume poisson,poisson,0.0006849225028418005,légume,0.00026154937222599983
+La carotte ne représente pas un <mask>.,légume poisson,poisson,0.00018323179392609745,0,0.0
+Le petit pois représente un <mask>.,légume bâtiment,bâtiment,0.003035923233255744,légume,0.000253564357990399
+Le petit pois ne représente pas un <mask>.,légume bâtiment,bâtiment,0.0005202340544201434,0,0.0
+Le marteau représente un <mask>.,outil insecte,outil,0.001681249006651342,insecte,0.0003734785132110119
+Le marteau ne représente pas un <mask>.,outil insecte,outil,0.0009447264019399881,0,0.0
+La scie représente un <mask>.,outil légume,outil,0.0014715443830937147,légume,0.000287286180537194
+La scie ne représente pas un <mask>.,outil légume,outil,0.000946290441788733,0,0.0
+La voiture représente un <mask>.,véhicule arbre,véhicule,0.029041338711977005,arbre,0.0011178108397871256
+La voiture ne représente pas un <mask>.,véhicule arbre,véhicule,0.13839513063430786,arbre,0.0006671023438684642
+Le camion représente un <mask>.,véhicule fleur,véhicule,0.02879982441663742,0,0.0
+Le camion ne représente pas un <mask>.,véhicule fleur,véhicule,0.04475544020533562,0,0.0
+L'hôtel représente un <mask>.,bâtiment poisson,bâtiment,0.004993316251784563,poisson,0.0002686380466911942
+L'hôtel ne représente pas un <mask>.,bâtiment poisson,bâtiment,0.0013446706579998136,poisson,0.00026727322256192565
+La maison représente un <mask>.,oiseau construction,oiseau,0.0009395491215400398,0,0.0
+La maison ne représente pas un <mask>.,oiseau construction,oiseau,0.00034389650681987405,0,0.0

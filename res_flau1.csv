@@ -1,0 +1,37 @@
+masked_flau,options,response1,prob1,response2,prob2
+La truite est un <special1>.,poisson outil,outil,0.0013435984728857875,poisson,0.0008004994597285986
+La truite n'est pas un <special1>.,poisson outil,outil,0.00046613169251941144,poisson,0.0002556819235906005
+Le saumon est un <special1>.,poisson légume,poisson,0.0017165654571726918,légume,0.000598978775087744
+Le saumon n'est pas un <special1>.,poisson légume,poisson,0.0007237084791995585,légume,0.00039211969124153256
+La fourmi est un <special1>.,insecte légume,insecte,0.0008349625277332962,légume,0.00018433887453284115
+La fourmi n'est pas un <special1>.,insecte légume,légume,0.00024734222097322345,insecte,0.00022910271945875138
+La abeille est un <special1>.,insecte bâtiment,insecte,0.0015933195827528834,bâtiment,0.0008580833673477173
+La abeille n'est pas un <special1>.,insecte bâtiment,insecte,0.0002650351671036333,bâtiment,0.00018069623911287636
+Le rouge-gorge est un <special1>.,oiseau arbre,oiseau,0.002595316618680954,arbre,0.0014832287561148405
+Le rouge-gorge n'est pas un <special1>.,oiseau arbre,oiseau,0.0011103340657427907,arbre,0.0007803962216712534
+Le moineau est un <special1>.,oiseau véhicule,oiseau,0.006928433198481798,véhicule,0.0007579848170280457
+Le moineau n'est pas un <special1>.,oiseau véhicule,oiseau,0.001060144160874188,0,0.0
+Le chêne est un <special1>.,arbre véhicule,arbre,0.0035600399132817984,véhicule,0.0007826584624126554
+Le chêne n'est pas un <special1>.,arbre véhicule,arbre,0.012339959852397442,véhicule,0.0006167314713820815
+Le pin est un <special1>.,arbre véhicule,arbre,0.0018478452693670988,véhicule,0.0010037166066467762
+Le pin n'est pas un <special1>.,arbre véhicule,arbre,0.0006685905973426998,véhicule,0.000310548028210178
+La rose est un <special1>.,fleur insecte,insecte,0.0011260126484557986,0,0.0
+La rose n'est pas un <special1>.,fleur insecte,insecte,0.0001856003509601578,0,0.0
+La marguerite est un <special1>.,fleur oiseau,oiseau,0.002570065436884761,0,0.0
+La marguerite n'est pas un <special1>.,fleur oiseau,oiseau,0.0006380078266374767,0,0.0
+La carotte est un <special1>.,légume poisson,poisson,0.001026266603730619,légume,0.00034599064383655787
+La carotte n'est pas un <special1>.,légume poisson,poisson,0.0002664975472725928,0,0.0
+Le petit pois est un <special1>.,légume bâtiment,bâtiment,0.0008948055910877883,légume,0.0003230925358366221
+Le petit pois n'est pas un <special1>.,légume bâtiment,légume,0.000334848155034706,bâtiment,0.0001870767882792279
+Le marteau est un <special1>.,outil insecte,outil,0.0014871840830892324,insecte,0.001244659535586834
+Le marteau n'est pas un <special1>.,outil insecte,outil,0.00046527321683242917,0,0.0
+La scie est un <special1>.,outil légume,outil,0.0010363650508224964,légume,0.0001912781735882163
+La scie n'est pas un <special1>.,outil légume,outil,0.0005317595787346363,légume,0.0001822880731197074
+La voiture est un <special1>.,véhicule arbre,véhicule,0.005289526656270027,arbre,0.0013421280309557915
+La voiture n'est pas un <special1>.,véhicule arbre,véhicule,0.07281799614429474,arbre,0.0005279842298477888
+Le camion est un <special1>.,véhicule fleur,véhicule,0.02582462690770626,0,0.0
+Le camion n'est pas un <special1>.,véhicule fleur,véhicule,0.07703056186437607,0,0.0
+L'hôtel est un <special1>.,bâtiment poisson,poisson,0.000812042155303061,bâtiment,0.0007844085921533406
+L'hôtel n'est pas un <special1>.,bâtiment poisson,poisson,0.00025827225181274116,bâtiment,0.00020972049969714135
+La maison est un <special1>.,oiseau construction,oiseau,0.0023353262804448605,0,0.0
+La maison n'est pas un <special1>.,oiseau construction,oiseau,0.0004901494248770177,0,0.0
